@@ -3,7 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background-color: #76c851;
+}
 header img{
     width: 200px;
     height: 150px;
+   
+}
+main{
+
+}
+section{
+
+}
+div{
+
+}
+footer{
+    font-size: 10px;
+    color: #8b51fd;
 }
