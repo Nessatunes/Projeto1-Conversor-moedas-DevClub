@@ -1,27 +1,63 @@
 <!DOCTYPE html>
 <html lang="pt-bt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="./Assets/icon.png" type="image/x-icon">
-    <title>Conversor de Moedas</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="./Assets/icon.png" type="image/x-icon" />
+    <title>Devclub - Convert Money</title>
+  </head>
+  <body>
     <header>
-        <img src="./Assets/logo.gif" alt="logo">
+      <img src="./Assets/logo.gif" alt="logo" />
     </header>
     <main>
-        <section>
-            <div>
+              <label
+        >Converter <b>de:</b>
+        <select name="" id="">
+          <option value="">R$ Real Brasileiro</option>
+        </select>
+      </label>
 
-            </div>
-        </section>
+      <label>
+        Converter <b>Para:</b>
+        <select name="" id="">
+          <option value="">US$ Dolar Americano</option>
+          <option value="">€ Euro</option>
+          <option value="">£ Libra</option>
+          <option value="">₿ Bitcoin</option>
+        </select>
+      </label>
+      <label for="">Valor
+
+        <input type="number" placeholder="R$ 10.000,00">
+      </label>
+      <button>Converter</button>
+      <section>
+        <div class="currency-box">
+            <img src="./Assets/real.png" alt="moeda-a-converter">
+            <p class="currency-nome">Real</p>
+            <p class="currency-value">R$ 0.00</p>
+        </div>
+        <img class="arrow" src="./Assets/Seta.png" alt="Seta">
+        <div class="currency-box">
+            <img src="./Assets/Dolar.png" alt="Moeda-convertida">
+            <p class="currency-nome">US$ Dólar</p>
+            <p class="currency-value">US$ 0.00</p>
+        </div>
+
+      </section>
+     
     </main>
     <footer>
-       <p>&copy; Copyright - 2024 Vanessa Antunes</p> 
+      <p>&copy; Copyright - 2024 Vanessa Antunes</p>
     </footer>
-    
-</body>
-<script src="script.js"></script>
+  </body>
+  <script src="script.js"></script>
 </html>
