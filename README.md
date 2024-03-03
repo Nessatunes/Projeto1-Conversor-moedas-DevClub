@@ -2,7 +2,7 @@
 
 ## ✔ Sobre
 
-O projeto foi realizado no **curso DevClub** com professor **Rodolfo Mori**
+O projeto foi realizado no **[DevClub](https://rodolfomori.com.br/devclub/)** com professor **[Rodolfo Mori](https://github.com/rodolfomori)**
 
 
 ## 💻Tecnologias utilizadas
