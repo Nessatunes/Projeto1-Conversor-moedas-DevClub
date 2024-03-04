@@ -1,7 +1,7 @@
 <h1>Projeto Conversor de Moedas 💰</h1>
 <h2>✔️Sobre:</h2>
 
-<p>O projeto foi realizado no <a href="https://rodolfomori.com.br/devclub/"><b>DevClub</b></a> com professor <a href="https://github.com/rodolfomori"><b>Rodolfo Mori</b> </a></p>
+<p>O projeto foi realizado no <a href="https://rodolfomori.com.br/devclub/" target="_blank" ><b>DevClub</b></a> com professor <a href="https://github.com/rodolfomori" target="_blank" ><b>Rodolfo Mori</b> </a></p>
 
 <p>
     Este projeto foi criado com o objetivo de fornecer uma ferramenta simples e eficiente,
