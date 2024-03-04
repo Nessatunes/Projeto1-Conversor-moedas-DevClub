@@ -18,46 +18,44 @@
       <img src="./Assets/logo.gif" alt="logo" />
     </header>
     <main>
-              <label
+      <label
         >Converter <b>de:</b>
-        <select name="" id="">
-          <option value="">R$ Real Brasileiro</option>
+        <select name="moeda-a-converter" id="imoeda-a-converter">
+          <option>R$ Real Brasileiro</option>
         </select>
-      </label>
+      </label>    
 
       <label>
         Converter <b>Para:</b>
-        <select name="" id="">
-          <option value="">US$ Dolar Americano</option>
-          <option value="">€ Euro</option>
-          <option value="">£ Libra</option>
-          <option value="">₿ Bitcoin</option>
+        <select class="currency-select" name="select" id="iselect">
+          <option value="Dolar">US$ Dólar Americano</option>
+          <option value="Euro">€ Euro</option>
+          <option value="Libra">£ Libra</option>
+          <option value="Bitcoin">₿ Bitcoin</option>
         </select>
       </label>
-      <label for="">Valor
 
-        <input type="number" placeholder="R$ 10.000,00">
+      <label class="Valor-rec" id="ivalor-rec">Valor
+        <input class="input-currency" type="number" id="ivalor" placeholder="R$ 10.000,00">
       </label>
-      <button>Converter</button>
+      <button class="convert-button">Converter</button>
       <section>
         <div class="currency-box">
             <img src="./Assets/real.png" alt="moeda-a-converter">
-            <p class="currency-nome">Real</p>
-            <p class="currency-value">R$ 0.00</p>
+            <p class="currency-moeda">Real</p>
+            <p class="currency-value-to-convert">R$ 0.00</p>
         </div>
         <img class="arrow" src="./Assets/Seta.png" alt="Seta">
         <div class="currency-box">
-            <img src="./Assets/Dolar.png" alt="Moeda-convertida">
-            <p class="currency-nome">US$ Dólar</p>
+            <img class="currency-img" src="./Assets/Dolar.png" alt="Moeda-convertida">
+            <p class="currency-moeda" id="currency-name">Dólar</p>
             <p class="currency-value">US$ 0.00</p>
         </div>
-
-      </section>
-     
+      </section>     
     </main>
     <footer>
       <p>&copy; Copyright - 2024 Vanessa Antunes</p>
     </footer>
   </body>
-  <script src="script.js"></script>
+<script src="./script.js"></script>
 </html>
