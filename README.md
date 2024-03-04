@@ -1,23 +1,31 @@
-# Projeto1-Conversor-moedas-DevClub
+<h1>Projeto Conversor de Moedas 💰</h1>
+<h2>✔️Sobre:</h2>
 
-## ✔ Sobre
+<p>O projeto foi realizado no <a href="https://rodolfomori.com.br/devclub/"><b>DevClub</b></a> com professor <a href="https://github.com/rodolfomori"><b>Rodolfo Mori</b> </a></p>
 
-O projeto foi realizado no **[DevClub](https://rodolfomori.com.br/devclub/)** com professor **[Rodolfo Mori](https://github.com/rodolfomori)**
+<p>
+    Este projeto foi criado com o objetivo de fornecer uma ferramenta simples e eficiente,
+    com uma interface intuitiva e amigável, os usuários podem selecionar as moedas de origem e de destino, inserir o valor a ser convertido e obter o resultado instantaneamente.
+</p>
+
+<h2>💻Tecnologias Utilizadas: </h2>
+
+![alt text](html-5-1.png) 
+<p>Utilizado para a estruturação do conteúdo da aplicação.</p><br>
 
 
-## 💻Tecnologias utilizadas
-Tecnologias Utilizadas
-HTML5: Utilizado para a estruturação do conteúdo da aplicação.
-CSS3: Utilizado para estilizar os elementos da aplicação e torná-la visualmente atraente.
-JavaScript: Utilizado para adicionar interatividade à aplicação, como a lógica de conversão.
+![alt text](css.png)
+<p>Utilizado para estilizar os elementos da aplicação e torná-la visualmente atraente.</p>
 
-HTML | CSS | JavaScript
 
-![Apresentação](./Apresentação.png)
+ ![alt text](js-1.png)
+<p>Utilizado para adicionar interatividade à aplicação, como a lógica de conversão.</p>
 
-sobre 
 
-Este projeto foi criado com o objetivo de fornecer uma ferramenta simples e eficiente,
-com uma interface intuitiva e amigável, os usuários podem selecionar as moedas de origem e de destino, inserir o valor a ser convertido e obter o resultado instantaneamente.
+<img src="./Mockup.png">
+
+
+
+
 
 
