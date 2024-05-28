@@ -12,13 +12,10 @@ com uma interface intuitiva e amigável, os usuários podem selecionar as moedas
 
 Usamos a API - AwesomeAPI - para trazer a cotação atualizada.
 
-![alt text](html-5-1.png)
-Utilizado para a estruturação do conteúdo da aplicação.
+HTML - Utilizado para a estruturação do conteúdo da aplicação.
 
-![alt text](css.png)
-Utilizado para estilizar os elementos da aplicação e torná-la visualmente atraente.
+CSS - Utilizado para estilizar os elementos da aplicação e torná-la visualmente atraente.
 
-![alt text](js-1.png)
-Utilizado para adicionar interatividade à aplicação, como a lógica de conversão.
+JavaScript - Utilizado para adicionar interatividade à aplicação, como a lógica de conversão.
 
 <img src="./Mockup.png">
